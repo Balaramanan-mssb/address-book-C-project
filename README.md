@@ -4,9 +4,11 @@ C-based address book system implementing file handling concepts to create, searc
 Address Book in C:
 
 Description:
-          This project is a command-line based Address Book application project developed by using C programming. It uses file handling concepts to store, retrieve, and manage contact information efficiently.
+          
+This project is a command-line based Address Book application project developed by using C programming. It uses file handling concepts to store, retrieve, and manage contact information efficiently.
 
 Operations:
+
 -> Create new contacts
 -> Search for contacts
 -> Edit existing contacts
@@ -15,6 +17,7 @@ Operations:
 -> Save contacts and Exit
 
 Concepts used:
+
 - C Programming Fundamentals
 - File Handling (fopen, fread, fwrite, fclose)
 - Structures for storing contact details
@@ -25,6 +28,7 @@ Concepts used:
 - Basic data management system design
 
 Project File Structure:
+
 address-book-c/
 │
 ├── main.c
