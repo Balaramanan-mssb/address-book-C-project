@@ -77,25 +77,33 @@ Enter the Phone number: 1234567890
 Enter mail id:abc@gmail.com
 
 Enter your choice: 2
+
 Search by:
+
 1. Name of the contact
 2. Phone number
 3. Email id
+4. 
 Enter your choice:1
+
 Enter name to search: abc
 
 Enter your choice: 3
+
 Enter phone number of the contact you want to edit:1234567890 
 
 Contact Found:
+
 Name of the contact: abc
 Phone number: 1234567890
 Email id: abc@gmail.com
 
 What do you want to edit?
+
 1. Name
 2. Phone
 3. Email
+
 Enter your choice:1
 Enter new name: abcd
 
@@ -116,6 +124,7 @@ Sample output:
 Contact created successfully!
 
 Contact Found:
+
 Name of the contact: abc
 Phone number: 1234567890
 Email id: abc@gmail.com
