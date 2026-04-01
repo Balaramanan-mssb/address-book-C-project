@@ -56,7 +56,75 @@ How to Run:
 
 2. Run the program:
    ./a.out
-   
+
+Sample input: 
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+
+Enter your choice: 1
+Enter the name of the new contact:abc
+Enter the Phone number: 1234567890
+Enter mail id:abc@gmail.com
+
+Enter your choice: 2
+Search by:
+1. Name of the contact
+2. Phone number
+3. Email id
+Enter your choice:1
+Enter name to search: abc
+
+Enter your choice: 3
+Enter phone number of the contact you want to edit:1234567890 
+
+Contact Found:
+Name of the contact: abc
+Phone number: 1234567890
+Email id: abc@gmail.com
+
+What do you want to edit?
+1. Name
+2. Phone
+3. Email
+Enter your choice:1
+Enter new name: abcd
+
+Enter your choice: 4
+Enter phone number of the contact to delete: 1234567890
+
+Contact Found:
+Name : abcd
+Phone: 1234567890
+Email: abc@gmail.com
+
+Are you sure you want to delete this contact? (y/n): y
+
+Enter your choice: 5
+
+Sample output:
+
+Contact created successfully!
+
+Contact Found:
+Name of the contact: abc
+Phone number: 1234567890
+Email id: abc@gmail.com
+
+Contact updated successfully!
+
+Contact deleted successfully!
+
+Name of the contact:abcd
+Phone number:1234567890
+Email id:abc@gmail.com
+
 Concepts Learned:
 - Improved understanding of file handling in C
 - Strengthened problem-solving skills
