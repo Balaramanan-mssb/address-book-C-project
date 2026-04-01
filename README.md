@@ -69,8 +69,11 @@ Address Book Menu:
 7. Exit
 
 Enter your choice: 1
+
 Enter the name of the new contact:abc
+
 Enter the Phone number: 1234567890
+
 Enter mail id:abc@gmail.com
 
 Enter your choice: 2
