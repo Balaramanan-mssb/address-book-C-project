@@ -1,0 +1,93 @@
+Name:Balaramanan M
+
+Batch id:25031_157
+
+Batch no:25031C
+
+Date of completion:12/12/2025
+
+Description:
+        In C programming language we use AddressBook to efficiently store and manage personal contact information.It allows
+    user to create,search,edit,delete,list all save contacts effeciently.Each contact contains a name,phone number and email 
+    address.We validate all contacts with validation.c function by checking wheather saved contacts have name,phone number 
+    and email address in correct format and check wheather it stores unique phone number and unique email address.In this project 
+    user can select their choice to Create,Search,Edit,Delete or list contacts showed in Address Book Menu.It enables users to 
+    perform essential operations such as creating new contacts, searching existing contacts,editing or deleting contact details
+    and listing all saved contacts and finally saving the updated information into the created file .After selecting user can 
+    able to do any function related to their choice.Thus user create contact then we stores those multiple contacts using an 
+    AddressBook structure and saves them to a file named contacts.csv using FILEi/0.
+
+Sample input:
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+//create contact
+Enter your choice: 1
+Enter the name of the new contact:abc
+Enter the Phone number: 1234567890
+Enter mail id:abc@gmail.com
+
+//Search contact
+Enter your choice: 2
+Search by:
+1. Name of the contact
+2. Phone number
+3. Email id
+Enter your choice:1
+Enter name to search: abc
+
+//Edit contact
+Enter your choice: 3
+Enter phone number of the contact you want to edit:1234567890 
+
+Contact Found:
+Name of the contact: abc
+Phone number: 1234567890
+Email id: abc@gmail.com
+
+What do you want to edit?
+1. Name
+2. Phone
+3. Email
+Enter your choice:1
+Enter new name: abcd
+
+//Delete contact
+Enter your choice: 4
+Enter phone number of the contact to delete: 1234567890
+
+Contact Found:
+Name : abcd
+Phone: 1234567890
+Email: abc@gmail.com
+
+Are you sure you want to delete this contact? (y/n): y
+
+//list contacts
+Enter your choice: 5
+
+Sample output:
+//create contact
+Contact created successfully!
+
+//search contact
+Contact Found:
+Name of the contact: abc
+Phone number: 1234567890
+Email id: abc@gmail.com
+
+//Edit contact
+Contact updated successfully!
+
+//Delete contact
+Contact deleted successfully!
+
+//List contact
+Name of the contact:abcd
+Phone number:1234567890
+Email id:abc@gmail.com
