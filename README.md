@@ -83,7 +83,7 @@ Search by:
 1. Name of the contact
 2. Phone number
 3. Email id
-4. 
+
 Enter your choice:1
 
 Enter name to search: abc
