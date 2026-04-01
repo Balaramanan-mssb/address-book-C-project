@@ -10,11 +10,17 @@ This project is a command-line based Address Book application project developed 
 Operations:
 
 -> Create new contacts
+
 -> Search for contacts
+
 -> Edit existing contacts
+
 -> Delete contacts
+
 -> Display all contacts
+
 -> Save contacts and Exit
+
 
 Concepts used:
 
