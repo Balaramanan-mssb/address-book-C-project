@@ -95,7 +95,9 @@ Enter phone number of the contact you want to edit:1234567890
 Contact Found:
 
 Name of the contact: abc
+
 Phone number: 1234567890
+
 Email id: abc@gmail.com
 
 What do you want to edit?
@@ -112,7 +114,9 @@ Enter phone number of the contact to delete: 1234567890
 
 Contact Found:
 Name : abcd
+
 Phone: 1234567890
+
 Email: abc@gmail.com
 
 Are you sure you want to delete this contact? (y/n): y
@@ -126,7 +130,9 @@ Contact created successfully!
 Contact Found:
 
 Name of the contact: abc
+
 Phone number: 1234567890
+
 Email id: abc@gmail.com
 
 Contact updated successfully!
@@ -134,7 +140,9 @@ Contact updated successfully!
 Contact deleted successfully!
 
 Name of the contact:abcd
+
 Phone number:1234567890
+
 Email id:abc@gmail.com
 
 Concepts Learned:
